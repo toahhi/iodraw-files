@@ -22,8 +22,14 @@
         <mxCell id="snf4MkpDoYJ3RFxSM7Mc-6" value="仓库一键生成拣货单并锁定拣货库存" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="220" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="snf4MkpDoYJ3RFxSM7Mc-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="snf4MkpDoYJ3RFxSM7Mc-8" target="snf4MkpDoYJ3RFxSM7Mc-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="snf4MkpDoYJ3RFxSM7Mc-8" value="开始拣货并扫描" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="360" y="220" width="120" height="40" as="geometry" />
+          <mxGeometry x="320" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="snf4MkpDoYJ3RFxSM7Mc-10" value="开始拣货并扫描" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="320" y="300" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
