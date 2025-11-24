@@ -28,7 +28,7 @@
         <mxCell id="c8nVawTc96xTNqd3-j7g-4" value="扫托盘码，弹出托盘界面" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="230" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="c8nVawTc96xTNqd3-j7g-6" value="扫托盘码，弹出托盘界面" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="c8nVawTc96xTNqd3-j7g-6" value="扫箱贴，将货物登记到托盘上" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="300" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
