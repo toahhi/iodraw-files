@@ -32,12 +32,18 @@
           <mxGeometry x="360" y="320" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="c8nVawTc96xTNqd3-j7g-8" value="托盘是否装好？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="530" y="295" width="110" height="50" as="geometry" />
+          <mxGeometry x="530" y="315" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="c8nVawTc96xTNqd3-j7g-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="c8nVawTc96xTNqd3-j7g-6" target="c8nVawTc96xTNqd3-j7g-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="420" as="sourcePoint" />
             <mxPoint x="440" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c8nVawTc96xTNqd3-j7g-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="310" as="sourcePoint" />
+            <mxPoint x="640" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
