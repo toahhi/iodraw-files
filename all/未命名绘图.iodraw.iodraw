@@ -31,8 +31,14 @@
         <mxCell id="c8nVawTc96xTNqd3-j7g-6" value="扫箱贴，将货物登记到托盘上" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="300" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="c8nVawTc96xTNqd3-j7g-8" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="c8nVawTc96xTNqd3-j7g-8" value="托盘是否装好？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="530" y="295" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="c8nVawTc96xTNqd3-j7g-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="420" as="sourcePoint" />
+            <mxPoint x="440" y="370" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
